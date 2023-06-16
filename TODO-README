@@ -1,0 +1,49 @@
+1) Run programs then reboot
+1b) Do system updates in gnome-software and install extension manager in flatpak
+2) In tweaks:
+	Cursor = Bibata-Modern-Ice
+	Icons = Adwaita (default)
+	<>
+	<>
+	Legacy = Sweet-Dark
+	
+    In Fonts:
+		All to 12 and scaling to 1.25
+	Startup:
+		Audacious - alter so in systray
+	Top Bar: 
+		Weekday added
+	Window Tabs:
+		Max & Min added
+3) Extension manager
+	In User-Installled add:
+		AppIndicator and KStatusNotifierItem Support
+		ArcMenu
+		Blur my shell
+		Burn my windows
+		Dash to Dock
+		Dynamic Panel Transparency
+		Just Perfection (Change shell-theme to 'on')
+		Mpris Label (Switch 'Hide when paused' to off)
+		Reorder Workspaces 
+		Space bar (Change from Super + W to Super + T)
+		Switch workspace (change to ctrl `)
+		Weather o'clock
+
+4) In Settings (right click desktop)
+	Click multitasking and change to 4 workspaces
+	In Keyboard and View and Customise Shortcuts 
+		In Windows add Super+W to close
+		In Custom Shortcuts:
+			Brave: brave-browser : F9
+			Terminal: gnome-terminal : Super + Return
+			logout: /bin/sh -c '~/log.sh' : Super + x
+			pcmanfm: pcmanfm : F12
+			geany: geany : Super + g
+			dmenu: dmenu_run -fn "Noto Sans Regular-16" -sb "#990000" -sf "#FFFF66" -p "Run: " : Alt + p
+			System-Monitor: gnome-system-monitor : Super + F3
+
+ 5) In ArcMenu:
+		Choose Modern Theme = Plasma
+		Font = 12
+		height = 750
