@@ -1,5 +1,6 @@
 #!/bin/bash
-sudo apt install conky-all pcmanfm rofi dmenu curl geany xterm lolcat neofetch yt-dlp audacious -y
+sudo apt install conky-all pcmanfm curl geany xterm lolcat neofetch yt-dlp audacious -y
+sudo apt install gnome-shell-extension-manager gnome-terminal gnome-weather pulseaudio pavucontrol -y
 
 mkdir -p ~/.icons
 mkdir -p ~/.themes
