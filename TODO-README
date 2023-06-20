@@ -1,16 +1,16 @@
 1) Run programs then reboot
-1b) Do system updates in gnome-software and install extension manager in flatpak
+1b) (Do system updates in gnome-software)
 2) In tweaks:
 	Cursor = Bibata-Modern-Ice
-	Icons = Adwaita (default)
+	Icons = Koda or Adwaita (default)
 	<>
 	<>
 	Legacy = Sweet-Dark
 	
     In Fonts:
-		All to 12 and scaling to 1.25
+		All to 11 or 12 and scaling to 1.25
 	Startup:
-		Audacious - alter so in systray
+		Audacious - alter so it is in systray
 	Top Bar: 
 		Weekday added
 	Window Tabs:
@@ -22,12 +22,13 @@
 		Blur my shell
 		Burn my windows
 		Dash to Dock
-		Dynamic Panel Transparency
+		(Dynamic Panel Transparency)
 		Just Perfection (Change shell-theme to 'on')
-		Mpris Label (Switch 'Hide when paused' to off)
-		Reorder Workspaces 
-		Space bar (Change from Super + W to Super + T)
-		Switch workspace (change to ctrl `)
+		Mpris Label (Switch in 'Label' 'Hide when paused' to off)
+		(Reorder Workspaces) 
+		Space bar (Change from Super + W to Super + T and 'show empty workspaces'.  Also turn on shift super + n)
+		(Switch workspace (change to ctrl `) )
+		Vitals (centre and show Memory in GB)
 		Weather o'clock
 
 4) In Settings (right click desktop)
@@ -37,13 +38,14 @@
 		In Custom Shortcuts:
 			Brave: brave-browser : F9
 			Terminal: gnome-terminal : Super + Return
-			logout: /bin/sh -c '~/log.sh' : Super + x
+			(logout: /bin/sh -c '~/log.sh' : Super + x)
 			pcmanfm: pcmanfm : F12
 			geany: geany : Super + g
-			dmenu: dmenu_run -fn "Noto Sans Regular-16" -sb "#990000" -sf "#FFFF66" -p "Run: " : Alt + p
-			System-Monitor: gnome-system-monitor : Super + F3
+			(dmenu: dmenu_run -fn "Noto Sans Regular-16" -sb "#990000" -sf "#FFFF66" -p "Run: " : Alt + p)
+			Sound : pavucontrol : Super + v
+			(System-Monitor: gnome-system-monitor : Super + F3)
 
  5) In ArcMenu:
 		Choose Modern Theme = Plasma
-		Font = 12
+		Font = 11 or 12
 		height = 750
