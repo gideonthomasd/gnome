@@ -1,0 +1,5 @@
+1) In debian install nvidia-detect and run this.
+
+Install 'linux-headers-amd64'.   Then do sudo apt install <driver> firmware-misc-nonfree
+
+2) In MXLinux do 'sudo ddm-mx -i nvidia'
