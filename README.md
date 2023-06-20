@@ -1,6 +1,6 @@
 # Debian Gnome
 
-Install debian gnome.  USE XORG for use with rofi and dmenu.
+Install debian gnome. 
 
 Do chmod +x *.sh.
 
