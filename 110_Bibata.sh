@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt update
 sudo apt install conky-all pcmanfm curl geany xterm lolcat neofetch yt-dlp audacious -y
 sudo apt install gnome-shell-extension-manager gnome-terminal gnome-weather gnome-chess gnome-tweaks gnome-sudoku pulseaudio pavucontrol -y
 
